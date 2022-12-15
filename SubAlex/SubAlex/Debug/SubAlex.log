@@ -1,0 +1,18 @@
+﻿Построение начато 15.12.2022 21:54:24.
+     1>Проект "C:\Users\Aiharo\Documents\Virtual Machines\flash card my\институт МИРЭА\обучение Си\SubAlex\SubAlex\SubAlex.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Обращение к "Debug\SubAlex.unsuccessfulbuild".
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt SubAlex.cpp
+         SubAlex.cpp
+     1>c:\users\aiharo\documents\virtual machines\flash card my\институт мирэа\обучение си\subalex\subalex\subalex.cpp(35): error C2664: power_of_two: невозможно преобразовать параметр 1 из "char *" в "const unsigned char *"
+                 Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+     1>c:\users\aiharo\documents\virtual machines\flash card my\институт мирэа\обучение си\subalex\subalex\subalex.cpp(41): error C2664: power_of_two: невозможно преобразовать параметр 1 из "char *" в "const unsigned char *"
+                 Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+     1>c:\users\aiharo\documents\virtual machines\flash card my\институт мирэа\обучение си\subalex\subalex\subalex.cpp(58): error C2664: power_of_two: невозможно преобразовать параметр 1 из "char *" в "const unsigned char *"
+                 Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+     1>Построение проекта "C:\Users\Aiharo\Documents\Virtual Machines\flash card my\институт МИРЭА\обучение Си\SubAlex\SubAlex\SubAlex.vcxproj" завершено (целевые объекты build) с ошибкой.
+
+СБОЙ построения.
+
+Затраченное время: 00:00:01.96

@@ -1,0 +1,12 @@
+D:\институт МИРЭА\обучение Си\Lab9\Lab9\bin\Debug\Tourists.mdf
+D:\институт МИРЭА\обучение Си\Lab9\Lab9\bin\Debug\Tourists_log.ldf
+D:\институт МИРЭА\обучение Си\Lab9\Lab9\bin\Debug\Lab9.exe.config
+D:\институт МИРЭА\обучение Си\Lab9\Lab9\bin\Debug\Lab9.exe
+D:\институт МИРЭА\обучение Си\Lab9\Lab9\bin\Debug\Lab9.pdb
+D:\институт МИРЭА\обучение Си\Lab9\Lab9\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\институт МИРЭА\обучение Си\Lab9\Lab9\obj\x86\Debug\Lab9.Form1.resources
+D:\институт МИРЭА\обучение Си\Lab9\Lab9\obj\x86\Debug\Lab9.Properties.Resources.resources
+D:\институт МИРЭА\обучение Си\Lab9\Lab9\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\институт МИРЭА\обучение Си\Lab9\Lab9\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\институт МИРЭА\обучение Си\Lab9\Lab9\obj\x86\Debug\Lab9.exe
+D:\институт МИРЭА\обучение Си\Lab9\Lab9\obj\x86\Debug\Lab9.pdb

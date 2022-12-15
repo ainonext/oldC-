@@ -1,0 +1,13 @@
+﻿Построение начато 15.12.2022 22:11:46.
+     1>Проект "C:\Users\Aiharo\Documents\Virtual Machines\flash card my\институт МИРЭА\обучение Си\SubnetingDif\SubnetingDif\SubnetingDif.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Обращение к "Debug\SubnetingDif.unsuccessfulbuild".
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt user_data.cpp
+         user_data.cpp
+     1>c:\users\aiharo\documents\virtual machines\flash card my\институт мирэа\обучение си\subnetingdif\subnetingdif\user_data.cpp(20): error C2082: переопределение формального параметра "ip"
+     1>Построение проекта "C:\Users\Aiharo\Documents\Virtual Machines\flash card my\институт МИРЭА\обучение Си\SubnetingDif\SubnetingDif\SubnetingDif.vcxproj" завершено (целевые объекты build) с ошибкой.
+
+СБОЙ построения.
+
+Затраченное время: 00:00:40.11

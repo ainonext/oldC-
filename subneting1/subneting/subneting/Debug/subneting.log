@@ -1,0 +1,21 @@
+﻿Построение начато 15.12.2022 22:05:48.
+     1>Проект "C:\Users\Aiharo\Documents\Virtual Machines\flash card my\институт МИРЭА\обучение Си\subneting1\subneting\subneting\subneting.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Создание "Debug\subneting.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+         Для всех выходных данных обновления не требуется.
+       ManifestResourceCompile:
+         Для всех выходных данных обновления не требуется.
+       Link:
+         Для всех выходных данных обновления не требуется.
+       Manifest:
+         Для всех выходных данных обновления не требуется.
+       FinalizeBuildStatus:
+         Файл "Debug\subneting.unsuccessfulbuild" удаляется.
+         Обращение к "Debug\subneting.lastbuildstate".
+     1>Построение проекта "C:\Users\Aiharo\Documents\Virtual Machines\flash card my\институт МИРЭА\обучение Си\subneting1\subneting\subneting\subneting.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:00.48

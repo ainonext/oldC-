@@ -1,0 +1,29 @@
+﻿Построение начато 16.05.2012 19:44:10.
+     1>Проект "D:\институт МИРЭА\обучение Си\MaxPotok\MaxPotok\MaxPotok.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Создание "Debug\MaxPotok.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt max2.cpp
+         max2.cpp
+     1>d:\институт мирэа\обучение си\maxpotok\maxpotok\max2.cpp(61): warning C4258: sum: определение из цикла for игнорируется; используется определение из внешней области видимости
+                 d:\институт мирэа\обучение си\maxpotok\maxpotok\max2.cpp(60): пропуск определения "sum"
+                 d:\институт мирэа\обучение си\maxpotok\maxpotok\max2.cpp(8): используется определение "sum"
+       ManifestResourceCompile:
+         Для всех выходных данных обновления не требуется.
+       Link:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\институт МИРЭА\обучение Си\MaxPotok\Debug\MaxPotok.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\MaxPotok.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\институт МИРЭА\обучение Си\MaxPotok\Debug\MaxPotok.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\институт МИРЭА\обучение Си\MaxPotok\Debug\MaxPotok.lib" /MACHINE:X86 Debug\MaxPotok.exe.embed.manifest.res
+         Debug\max2.obj
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\MaxPotok.exe.embed.manifest" /manifest Debug\MaxPotok.exe.intermediate.manifest
+         Для всех выходных данных обновления не требуется.
+       LinkEmbedManifest:
+         Для всех выходных данных обновления не требуется.
+         MaxPotok.vcxproj -> D:\институт МИРЭА\обучение Си\MaxPotok\Debug\MaxPotok.exe
+       FinalizeBuildStatus:
+         Файл "Debug\MaxPotok.unsuccessfulbuild" удаляется.
+         Обращение к "Debug\MaxPotok.lastbuildstate".
+     1>Построение проекта "D:\институт МИРЭА\обучение Си\MaxPotok\MaxPotok\MaxPotok.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:01.42

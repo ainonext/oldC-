@@ -1,0 +1,31 @@
+﻿Построение начато 16.08.2012 21:24:12.
+     1>Проект "\\Storydeath\d\институт МИРЭА\обучение Си\ploshad\ploshad\ploshad.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Создание "Debug\ploshad.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Debug\ploshad.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\ploshad.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ploshad.cpp
+         ploshad.cpp
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\ploshad.exe.embed.manifest.res" Debug\ploshad_manifest.rc 
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"\\Storydeath\d\институт МИРЭА\обучение Си\ploshad\Debug\ploshad.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\ploshad.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"\\Storydeath\d\институт МИРЭА\обучение Си\ploshad\Debug\ploshad.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"\\Storydeath\d\институт МИРЭА\обучение Си\ploshad\Debug\ploshad.lib" /MACHINE:X86 Debug\ploshad.exe.embed.manifest.res
+         Debug\ploshad.obj
+         Debug\stdafx.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\ploshad.exe.embed.manifest" /manifest Debug\ploshad.exe.intermediate.manifest
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\ploshad.exe.embed.manifest.res" Debug\ploshad_manifest.rc 
+       LinkEmbedManifest:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"\\Storydeath\d\институт МИРЭА\обучение Си\ploshad\Debug\ploshad.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\ploshad.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"\\Storydeath\d\институт МИРЭА\обучение Си\ploshad\Debug\ploshad.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"\\Storydeath\d\институт МИРЭА\обучение Си\ploshad\Debug\ploshad.lib" /MACHINE:X86 Debug\ploshad.exe.embed.manifest.res
+         Debug\ploshad.obj
+         Debug\stdafx.obj
+         ploshad.vcxproj -> \\Storydeath\d\институт МИРЭА\обучение Си\ploshad\Debug\ploshad.exe
+       FinalizeBuildStatus:
+         Файл "Debug\ploshad.unsuccessfulbuild" удаляется.
+         Обращение к "Debug\ploshad.lastbuildstate".
+     1>Построение проекта "\\Storydeath\d\институт МИРЭА\обучение Си\ploshad\ploshad\ploshad.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:18.50

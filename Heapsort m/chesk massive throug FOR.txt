@@ -1,0 +1,21 @@
+void Check_massive(int a[], int n)
+{
+	
+bool sort=true;
+	for(int i=0; i<n-1;i++)
+	{
+		if (a[i]>a[i+1])
+		{
+			sort=false;
+			cout << "Massive is not sorted! "<< endl;
+			Sort(a,n);
+			break;
+		}
+	}
+
+	if (sort==true)
+	{
+		cout << "Massive already sorted! "<< endl;
+
+	}
+}

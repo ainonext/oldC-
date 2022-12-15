@@ -1,0 +1,25 @@
+﻿Построение начато 11.01.2012 22:29:21.
+     1>Проект "D:\институт МИРЭА\обучение Си\C1++\clr_drawer\clr_drawer\clr_drawer.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Создание "Debug\clr_drawer.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       GenerateTargetFrameworkMonikerAttribute:
+       Целевой объект "GenerateTargetFrameworkMonikerAttribute" пропускается, так как все выходные файлы актуальны по отношению к входным.
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+         Для всех выходных данных обновления не требуется.
+         Для всех выходных данных обновления не требуется.
+       CoreResGen:
+         Для всех выходных данных обновления не требуется.
+       ResourceCompile:
+         Для всех выходных данных обновления не требуется.
+       Link:
+         Для всех выходных данных обновления не требуется.
+         clr_drawer.vcxproj -> D:\институт МИРЭА\обучение Си\C1++\clr_drawer\Debug\clr_drawer.exe
+       FinalizeBuildStatus:
+         Файл "Debug\clr_drawer.unsuccessfulbuild" удаляется.
+         Обращение к "Debug\clr_drawer.lastbuildstate".
+     1>Построение проекта "D:\институт МИРЭА\обучение Си\C1++\clr_drawer\clr_drawer\clr_drawer.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:00.26

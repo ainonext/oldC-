@@ -1,0 +1,26 @@
+﻿Построение начато 26.03.2012 21:39:45.
+     1>Проект "G:\Projects\обучение Си\C++ University\Kommivoyager\Kommivoyager\Kommivoyager.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Создание "Debug\Kommivoyager.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Kom.cpp
+         Kom.cpp
+       ManifestResourceCompile:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\Kommivoyager.exe.embed.manifest.res" Debug\Kommivoyager_manifest.rc 
+       Link:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"G:\Projects\обучение Си\C++ University\Kommivoyager\Debug\Kommivoyager.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Kommivoyager.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"G:\Projects\обучение Си\C++ University\Kommivoyager\Debug\Kommivoyager.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:\Projects\обучение Си\C++ University\Kommivoyager\Debug\Kommivoyager.lib" /MACHINE:X86 Debug\Kommivoyager.exe.embed.manifest.res
+         Debug\Kom.obj
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\Kommivoyager.exe.embed.manifest" /manifest Debug\Kommivoyager.exe.intermediate.manifest
+         Для всех выходных данных обновления не требуется.
+       LinkEmbedManifest:
+         Для всех выходных данных обновления не требуется.
+         Kommivoyager.vcxproj -> G:\Projects\обучение Си\C++ University\Kommivoyager\Debug\Kommivoyager.exe
+       FinalizeBuildStatus:
+         Файл "Debug\Kommivoyager.unsuccessfulbuild" удаляется.
+         Обращение к "Debug\Kommivoyager.lastbuildstate".
+     1>Построение проекта "G:\Projects\обучение Си\C++ University\Kommivoyager\Kommivoyager\Kommivoyager.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:02.35

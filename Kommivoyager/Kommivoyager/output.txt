@@ -1,0 +1,2 @@
+Lenght of min path = 18
+Path : 1->3->5->2->4->1
